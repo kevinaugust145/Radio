@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-@main
+//@main
 struct RadioApp: App {
     var body: some Scene {
         WindowGroup {
